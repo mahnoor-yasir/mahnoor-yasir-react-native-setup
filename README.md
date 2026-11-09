@@ -1,6 +1,6 @@
 # React Native Setup - MAD Assignment 1
 
-**Student Name:** Mahnoor Yasir
+**Student Name:** Mahnoor Yasir F2023266580
 
 **Subject:** Mobile Application Development (MAD) V1
 
